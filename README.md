@@ -10,3 +10,4 @@ Project related file repository
 # Resource Links
 
 - https://education.lego.com/en-us/downloads/spike-app/software
+- https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-robot-game-rulebook.pdf
