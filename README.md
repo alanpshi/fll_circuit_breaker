@@ -4,8 +4,8 @@ Project related file repository
 
 # Folder Structure
 
-## Project
-## Presentation
+- Project
+- Presentation
 
 # Resource Links
 
