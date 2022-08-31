@@ -13,6 +13,14 @@ Project related file repository
 - https://education.lego.com/en-us/downloads/spike-app/software
 - https://www.firstlegoleague.org/season#resources
 
+## Core Robot Design
+- https://youtu.be/T6zzdw4CQ94 (Base Design)
+- https://youtu.be/Qur2QkIVcUM (Modular Attachment)
+
+## Coding
+- https://youtu.be/Iq7BIvdjDnM (Proportional Turning)
+- https://youtu.be/Z8Cv60f75LI (Propertional Line Follow)
+
 ## Mission Demo (YouTube)
 
 - https://www.youtube.com/watch?v=135jPg99gqI
