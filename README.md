@@ -20,6 +20,7 @@ Project related file repository
 ## Coding
 - https://youtu.be/Iq7BIvdjDnM (Proportional Turning)
 - https://youtu.be/Z8Cv60f75LI (Propertional Line Follow)
+- https://youtu.be/tgwH6E9b2pI (Line Squaring)
 
 ## Mission Demo (YouTube)
 
