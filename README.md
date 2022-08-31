@@ -21,6 +21,9 @@ Project related file repository
 - https://youtu.be/Iq7BIvdjDnM (Proportional Turning)
 - https://youtu.be/Z8Cv60f75LI (Propertional Line Follow)
 - https://youtu.be/tgwH6E9b2pI (Line Squaring)
+- https://youtu.be/OOyjfuYgLqc (more PID line following ...)
+- https://youtu.be/dnlpLXtKsB8
+- https://youtu.be/OM7SxMH3hsU
 
 ## Mission Demo (YouTube)
 
